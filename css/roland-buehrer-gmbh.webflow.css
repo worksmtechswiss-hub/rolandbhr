@@ -614,7 +614,7 @@ a {
 }
 
 .landing-grid-privat-wrapper {
-  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/DSC03857.jpg');
+  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/dsc03857.jpg');
   background-position: 0 0, 0 0;
   background-size: auto, cover;
   flex: 1;
@@ -623,7 +623,7 @@ a {
 }
 
 .landing-grid-privat-wrapper.privat {
-  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/DSC03814_1.jpg');
+  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/dsc03814_1.jpg');
   background-position: 0 0, 0 0;
   background-size: auto, cover;
 }
@@ -766,7 +766,7 @@ a {
 }
 
 .about-hero {
-  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/DSC03913.jpg');
+  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/dsc03913.jpg');
   background-position: 0 0, 50%;
   background-size: auto, cover;
   justify-content: flex-end;
@@ -779,11 +779,11 @@ a {
 }
 
 .about-hero.notfall {
-  background-image: linear-gradient(to bottom, null, null), url('../images/DSC03986.jpg');
+  background-image: linear-gradient(to bottom, null, null), url('../images/dsc03986.jpg');
 }
 
 .about-hero.notfall.adjusted {
-  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/DSC03836_1.jpg');
+  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/dsc03836_1.jpg');
   background-position: 0 0, 50%;
   background-size: auto, cover;
   justify-content: flex-start;
@@ -941,7 +941,7 @@ a {
 }
 
 .referenzen-hero {
-  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/DSC03826_1.jpg');
+  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/dsc03826_1.jpg');
   background-position: 0 0, 50%;
   background-size: auto, cover;
   flex-flow: column;
@@ -967,7 +967,7 @@ a {
 }
 
 .div-block-2 {
-  background-image: url('../images/DSC03817_1.jpg');
+  background-image: url('../images/dsc03817_1.jpg');
   background-position: 50% 100%;
   background-size: cover;
   width: 100%;
@@ -986,7 +986,7 @@ a {
 }
 
 .kontakt-hero {
-  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/DSC03986.jpg');
+  background-image: linear-gradient(to bottom, var(--background), var(--background)), url('../images/dsc03986.jpg');
   background-position: 0 0, 50% 41%;
   background-size: auto, cover;
   flex-flow: column;
